@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ES6",
+    "noImplicitAny": true,
+    "skipLibCheck": true,
+    "jsx": "react-native",
+    "allowSyntheticDefaultImports": true,
+    "inlineSourceMap": true,
+    "declaration": true,
+    "outDir": "dist"
+  },
+  "include": ["src/**/*"]
+}
